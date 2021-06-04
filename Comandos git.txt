@@ -3,6 +3,6 @@ git status // ver estado de nuestro repositorio
 git add * // guardar todos los cambios
 git commit -m "version o lo que sea" // empaquetar version
 git push   //subirlo a la nube
-git pull // actualizar version 
+git pull // bajar version actualizada
 git resert --hard // volver a la version anterior
 git clean -f -d // limpiar archivos 
