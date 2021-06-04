@@ -1,2 +1,5 @@
 git clone // clonar un repositorio
 git status // ver estado de nuestro repositorio
+git add * // guardar todos los cambios
+git commit -m "version o lo que sea" // empaquetar version
+git push   //subirlo a la nube
