@@ -1,0 +1,2 @@
+git clone // clonar un repositorio
+git status // ver estado de nuestro repositorio
